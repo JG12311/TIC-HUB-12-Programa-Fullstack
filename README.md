@@ -1,2 +1,2 @@
-# TIC-HUB-12-Programa-o-Fullstack
+# TIC-HUB-12-Programa Fullstack
 Curso fullstack
